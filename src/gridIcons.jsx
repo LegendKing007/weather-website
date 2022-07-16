@@ -45,7 +45,7 @@ const GridIcons = ({
 				style={{ backgroundColor: `${color4}` }}
 				onClick={() => checkGrid4("Connected")}
 			>
-				<h3 className="air-conditioner">Ambient Light</h3>
+				<h3 className="air-conditioner">Ambient Light o</h3>
 				<h3 className="connected">{grid4}</h3>
 			</div>
 		</div>
